@@ -1,7 +1,7 @@
 
 # Blog Website
 
-This Blog Website is created with the help of Node.js, Database MongoDB and deployed using Heroku
+This Blog Website is created with the help of Node.js, MongoDB 
 
 
 
