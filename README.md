@@ -2,17 +2,13 @@
 # Blog Website
 
 This Blog Website is created with the help of Node.js, Database MongoDB and deployed using Heroku
-## Demo
 
-https://blog-6lel.onrender.com/
 
 
 ## Features
 
 - Compose New Post
-    > `https://blog-6lel.onrender.com/compose`
-
-- Dynamically get a Web Page for your Post
+- Dynamically add a Web Page for your Post
 
 
 
@@ -21,7 +17,7 @@ https://blog-6lel.onrender.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/blog-website.git
+  git clone https://github.com/DevyanshMalhotra/Blog-webapp.git
 ```
 
 Go to the project directory
@@ -47,13 +43,6 @@ Change MongoDB Connection String
   Change Connection String in app.js
 ```
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/vj9mgRB/blogwebsite.png)
-
-## Environment Variables
-
-`MONGODB_URI` - MongoDB Connection String
 
 ## Documentation
 
